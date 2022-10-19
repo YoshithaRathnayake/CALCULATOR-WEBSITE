@@ -7,9 +7,3 @@ font-size:30px;
 
 
 }
-p{
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	margin:20px 50px;
-}
