@@ -7,3 +7,26 @@
 
 
 }
+
+#paragraph{
+	font-size:larger;
+	font-weight:lighter;
+}
+
+#button{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 10px;
+}
+@media only screen and (max-width: 520px) {
+  .text-center {
+    font-size: 1.5rem;
+  }
+  #paragraph {
+    margin: 0 auto;
+    font-size: 0.8rem;
+  }
+  .big-calculator {
+    width: 80%;
+  }
+}
