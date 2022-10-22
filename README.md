@@ -1,9 +1,9 @@
 # <div align="center"><a href="https://calculator.yoshitha.tk/"><b><i>WELCOME TO MY CALCULATOR WEBSITE</i></b></a></div>
 
-# <div align="center"><img src="assets/img/Yoshitha Rathnayake 1.png" width="300px"></div>
+# <div align="center"><img src="https://raw.githubusercontent.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE/main/assets/img/Yoshitha%20Rathnayake%201.png" width="300px"></div>
 
-- This Github repository explores the website of a Basic Calculator made by Yoshitha Rathnayak (ME).
-- This website gives a preview of my Calculator. 
+- This Github repository explores the website of a Basic Calculator made by Yoshitha Rathnayake (ME).
+- This website shows a preview of my Calculator. 
 - The link for downloading the Calculator app is also available on the website.
 - The programming languages used to build this website are- HTML, CSS and BOOTSTRAP.
 
@@ -18,8 +18,10 @@ Available at : <b><i>[https://calculator.yoshitha.tk/](https://calculator.yoshit
 ## Features
 This is a basic everyday Calculator with following features:
 - Basic Operations like Addition, Subtraction, Multiplication and Division can be done.
-- Operations to calculate the square or square root of a number can also be performed.
 - Supports decimal values.
+- Operation like calculating the square of a number can also be performed.
+- Square Root of a number can also be calculated.
+
 
  <div >
 <p>You wanna see the application, don't you?</p>
