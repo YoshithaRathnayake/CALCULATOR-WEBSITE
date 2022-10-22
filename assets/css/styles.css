@@ -1,4 +1,4 @@
-.text-center{
+.title{
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -19,7 +19,7 @@
 	margin-bottom: 10px;
 }
 @media only screen and (max-width: 520px) {
-  .text-center {
+  .title {
     font-size: 1.5rem;
   }
   #paragraph {
