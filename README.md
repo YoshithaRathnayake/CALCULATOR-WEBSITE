@@ -32,13 +32,13 @@ This is a basic everyday Calculator with following features:
 
 
 # Run Locally
-
 - Clone your forked repository
+
   ```
   git clone https://github.com/YOUR-USERNAME/CALCULATOR-WEBSITE
   ```
 
-  
+
 ## 🚀 About Me
 Hii, I am _**Yoshitha Rathnayake**_. This is one of 
 the many websites which I have made.
