@@ -8,7 +8,7 @@
 	margin: 10vh auto;
 	font-size: 30px;
 	font-family: "Edo";
-	font-style: italic bold;
+	font-weight: bold ;
 }
 
 #paragraph {
@@ -45,6 +45,9 @@ img {
 background-color:lightgreen;
 color:darkgreen;
 }
+
+
+
 
 
 
