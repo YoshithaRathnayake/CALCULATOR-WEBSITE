@@ -1,39 +1,45 @@
 /* Edo Font */
 @import url('http://fonts.cdnfonts.com/css/edo');
 
-.title{
+.title {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin:10px auto;
-	font-size:30px;
+	margin: 10px auto;
+	font-size: 30px;
 	font-family: "Edo";
+	font-style: italic bold;
 }
 
-#paragraph{
-	width:70%;
-	font-size:larger;
-	font-weight:lighter;
-	background:rgb(229, 227, 227);
-	border-radius:10px;
-	padding:50px;
+#paragraph {
+	width: 70%;
+	font-size: larger;
+	font-weight: lighter;
+	background: rgb(229, 227, 227);
+	border-radius: 10px;
+	padding: 50px;
 	margin: 50px;
 }
 
-#button{
+#button {
 	display: flex;
 	justify-content: center;
 	margin-bottom: 10px;
 }
+
 @media only screen and (max-width: 520px) {
-  .title {
-    font-size: 1.5rem;
-  }
-  #paragraph {
-    margin: 0 auto;
-    font-size: 0.8rem;
-  }
+	.title {
+		font-size: 1.5rem;
+	}
+
+	#paragraph {
+		margin: 0 auto;
+		font-size: 0.8rem;
+	}
 }
-img{
-  width: 20%;
+
+img {
+	width: 20%;
 }
+
+
