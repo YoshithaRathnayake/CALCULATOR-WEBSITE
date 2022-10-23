@@ -9,8 +9,13 @@
 }
 
 #paragraph{
+	width:70%;
 	font-size:larger;
 	font-weight:lighter;
+	background:rgb(229, 227, 227);
+	border-radius:10px;
+	padding:15px;
+
 }
 
 #button{
