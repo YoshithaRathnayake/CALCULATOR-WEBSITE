@@ -1,10 +1,17 @@
+@import url(//db.onlinewebfonts.com/c/d2c52a64cb362f280d891dd4980160e5?family=Edo);
+@font-face {font-family: "Edo"; src: url("//db.onlinewebfonts.com/t/d2c52a64cb362f280d891dd4980160e5.eot"); 
+	src: url("//db.onlinewebfonts.com/t/d2c52a64cb362f280d891dd4980160e5.eot?#iefix") format("embedded-opentype"), 
+	url("//db.onlinewebfonts.com/t/d2c52a64cb362f280d891dd4980160e5.woff2") format("woff2"), 
+	url("//db.onlinewebfonts.com/t/d2c52a64cb362f280d891dd4980160e5.woff") format("woff"), 
+	url("//db.onlinewebfonts.com/t/d2c52a64cb362f280d891dd4980160e5.ttf") format("truetype"), 
+	url("//db.onlinewebfonts.com/t/d2c52a64cb362f280d891dd4980160e5.svg#Edo") format("svg"); }
 .title{
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	margin:10px auto;
 	font-size:30px;
-
+	font-family: "Edo";
 
 }
 
