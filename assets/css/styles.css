@@ -8,6 +8,7 @@
 	margin:10px auto;
 	font-size:30px;
 	font-family: "Edo";
+	font-style: italic;
 
 }
 
@@ -15,7 +16,7 @@
 	width:70%;
 	font-size:larger;
 	font-weight:lighter;
-	background:rgb(229, 227, 227);
+	background:#D1D1D1;
 	border-radius:10px;
 	padding:50px;
 	margin: 50px;
