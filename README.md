@@ -32,17 +32,15 @@ This is a basic everyday Calculator with following features:
 
 
 # Run Locally
-- From the 'Code' section of your forked repo, copy the URL of your forked repo under HTTPS/ SSH/ Github CLI.
 - Open Git Bash terminal.
 - Change the current working directory to the location where you want the cloned directory.
-- Type ```git clone```, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of ```YOUR-USERNAME```:
+- To clone your forked repository, type ```git clone```, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of ```YOUR-USERNAME```:
 
   ```
   git clone https://github.com/YOUR-USERNAME/CALCULATOR-WEBSITE
   ```
-- Press Enter. You local clone is created now.
 
-  
+
 ## 🚀 About Me
 Hii, I am _**Yoshitha Rathnayake**_. This is one of 
 the many websites which I have made.
