@@ -32,9 +32,7 @@ This is a basic everyday Calculator with following features:
 
 
 # Run Locally
-- Open Git Bash terminal.
-- Change the current working directory to the location where you want the cloned directory.
-- To clone your forked repository, type ```git clone```, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of ```YOUR-USERNAME```:
+- Clone your forked repository
 
   ```
   git clone https://github.com/YOUR-USERNAME/CALCULATOR-WEBSITE
