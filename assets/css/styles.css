@@ -1,6 +1,14 @@
 /* Edo Font */
 @import url('http://fonts.cdnfonts.com/css/edo');
 
+.bg-img {
+    background-image: url("../img/Background Image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 .title {
 	display: flex;
 	align-items: center;
