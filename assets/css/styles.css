@@ -10,6 +10,7 @@
 }
 
 .title {
+	color:rgb(244, 244, 244);
 	display: flex;
 	align-items: center;
 	justify-content: center;
