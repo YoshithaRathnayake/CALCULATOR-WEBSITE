@@ -10,14 +10,16 @@
 - The link for downloading the Calculator app is also available on the website.
 - The programming languages used to build this website are- HTML, CSS and BOOTSTRAP.
 
+
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a> 
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>
- <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
+<a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
 
+#
 Available at : <b><i>[https://calculator.yoshitha.tk/](https://calculator.yoshitha.tk/)</i></b>
 
 
-
+#
 ## Features
 This is a basic everyday Calculator with following features:
 - Basic Operations like Addition, Subtraction, Multiplication and Division can be done.
@@ -26,11 +28,12 @@ This is a basic everyday Calculator with following features:
 - Square Root of a number can also be calculated.
 
 
- <div >
+<div>
 <p>You wanna see the application, don't you?</p>
-<img src="assets\img\Calculator_Img.jpg" width="300px" ></div>
+<img src="assets\img\Calculator_Img.jpg" width="300px">
+</div>
 
-
+#
 # Run Locally
 - Clone your forked repository
 
@@ -38,7 +41,7 @@ This is a basic everyday Calculator with following features:
   git clone https://github.com/YOUR-USERNAME/CALCULATOR-WEBSITE
   ```
 
-
+#
 ## 🚀 About Me
 Hii, I am _**Yoshitha Rathnayake**_. This is one of 
 the many websites which I have made.
@@ -50,7 +53,7 @@ Being an Open Source Contributor:
 - I am also adept at Graphic Designing.
 
 
-
+#
 ## 🔗 Link
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoshithaRathnayake)
 [![linkedin](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/YoshithaRathnayake)
@@ -58,7 +61,7 @@ Being an Open Source Contributor:
 
 
 
-
+#
 ## Contributing
 
 Contributions are always welcome!
@@ -73,7 +76,7 @@ The Pull Requests will be reviewed and merged accordingly.
 
 
 
-
+#
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
