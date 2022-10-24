@@ -16,6 +16,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "Abhishekgupta204",
+      "name": "Abhishekgupta204",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116148980?v=4",
+      "profile": "https://github.com/Abhishekgupta204",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
