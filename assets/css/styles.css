@@ -7,10 +7,6 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    -webkit-animation-name: ScreenFade;
-    -webkit-animation-duration: 3s;
-    animation-name: ScreenFade;
-    animation-duration: 3s;
 }
 
 .title {
