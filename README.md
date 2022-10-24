@@ -73,7 +73,7 @@ If you run into an issue, we would be very happy if you would first create an is
 
 After having been assigned, open your Pull Requests.
 
-The Pull Requests will be reviewed and merged accordingly.
+The Pull Requests will be reviewed, accepted and merged accordingly.
 
 
 
