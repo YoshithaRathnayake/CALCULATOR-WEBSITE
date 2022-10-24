@@ -1,6 +1,6 @@
 # <div align="center"><a href="https://calculator.yoshitha.tk/"><b><i>WELCOME TO MY CALCULATOR WEBSITE</i></b></a></div>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # <div align="center"><img src="https://raw.githubusercontent.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE/main/assets/img/Yoshitha%20Rathnayake%201.png" width="300px"></div>
@@ -86,6 +86,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center"><a href="https://github.com/YoshithaRathnayake"><img src="https://avatars.githubusercontent.com/u/97069900?v=4?s=100" width="100px;" alt="YOSHITHA RATHNAYAKE"/><br /><sub><b>YOSHITHA RATHNAYAKE</b></sub></a><br /><a href="#infra-YoshithaRathnayake" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE/commits?author=YoshithaRathnayake" title="Tests">⚠️</a> <a href="https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE/commits?author=YoshithaRathnayake" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Abhishekgupta204"><img src="https://avatars.githubusercontent.com/u/116148980?v=4?s=100" width="100px;" alt="Abhishekgupta204"/><br /><sub><b>Abhishekgupta204</b></sub></a><br /><a href="#infra-Abhishekgupta204" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE/commits?author=Abhishekgupta204" title="Tests">⚠️</a> <a href="https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE/commits?author=Abhishekgupta204" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/Arcturus22"><img src="https://avatars.githubusercontent.com/u/99889376?v=4?s=100" width="100px;" alt="Arcturus22"/><br /><sub><b>Arcturus22</b></sub></a><br /><a href="#infra-Arcturus22" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE/commits?author=Arcturus22" title="Tests">⚠️</a> <a href="https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE/commits?author=Arcturus22" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
