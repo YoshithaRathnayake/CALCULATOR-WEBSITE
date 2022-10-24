@@ -16,7 +16,7 @@
 <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
 
 #
-Available at : <b><i>[https://calculator.yoshitha.tk/](https://calculator.yoshitha.tk/)</i></b>
+Available at : <b><i>[calculator.yoshitha.tk](https://calculator.yoshitha.tk/)</i></b>
 
 
 #
