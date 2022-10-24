@@ -5,7 +5,7 @@
 
 # <div align="center"><img src="https://raw.githubusercontent.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE/main/assets/img/Yoshitha%20Rathnayake%201.png" width="300px"></div>
 
-- This Github repository explores the website of a Basic Calculator made by Yoshitha Rathnayake (ME).
+- This Github repository explores the website of a Basic Calculator made by Yoshitha Rathnayake.
 - This website shows a preview of my Calculator. 
 - The link for downloading the Calculator app is also available on the website.
 - The programming languages used to build this website are- HTML, CSS and BOOTSTRAP.
