@@ -30,6 +30,7 @@ This is a basic everyday Calculator with following features:
 
 <div>
 <p>You wanna see the application, don't you?</p>
+#
 <img src="assets\img\Calculator_Img.jpg" width="300px">
 </div>
 
