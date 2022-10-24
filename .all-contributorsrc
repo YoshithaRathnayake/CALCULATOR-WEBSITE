@@ -27,6 +27,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "Arcturus22",
+      "name": "Arcturus22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99889376?v=4",
+      "profile": "https://github.com/Arcturus22",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
