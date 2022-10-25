@@ -22,12 +22,12 @@ Available at : <b><i>[calculator.yoshitha.tk](https://calculator.yoshitha.tk/)</
 
 #
 ## Features
+# <div align="center"><img src="https://user-images.githubusercontent.com/97246670/197598526-18f0a2a2-0bbc-4f8e-aeb3-fde33b1cb8f0.png" width="300px"></div>
 This is a basic everyday Calculator with following features:
 - Basic Operations like Addition, Subtraction, Multiplication and Division can be done.
 - Supports decimal values.
 - Operation like calculating the square of a number can also be performed.
 - Square Root of a number can also be calculated.
-
 
 <div>
 <p>You wanna see the application, don't you?</p>
