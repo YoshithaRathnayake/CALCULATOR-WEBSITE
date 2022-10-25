@@ -14,6 +14,7 @@
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a> 
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>
 <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
+<a href="https://www.w3schools.com/python/"><img src= "https://img.icons8.com/color/48/000000/python.png"/><a>
 
 #
 Available at : <b><i>[calculator.yoshitha.tk](https://calculator.yoshitha.tk/)</i></b>
@@ -21,12 +22,12 @@ Available at : <b><i>[calculator.yoshitha.tk](https://calculator.yoshitha.tk/)</
 
 #
 ## Features
+# <div align="center"><img src="https://user-images.githubusercontent.com/97246670/197598526-18f0a2a2-0bbc-4f8e-aeb3-fde33b1cb8f0.png" width="300px"></div>
 This is a basic everyday Calculator with following features:
 - Basic Operations like Addition, Subtraction, Multiplication and Division can be done.
 - Supports decimal values.
 - Operation like calculating the square of a number can also be performed.
 - Square Root of a number can also be calculated.
-
 
 <div>
 <p>You wanna see the application, don't you?</p>
