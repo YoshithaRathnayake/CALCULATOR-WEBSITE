@@ -34,7 +34,7 @@
 	margin: 50px;
 }
 
-#button {
+.button {
 	display: flex;
 	justify-content: center;
 	margin-bottom: 10px;
