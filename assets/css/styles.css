@@ -108,3 +108,34 @@ img {
   background-color: lightgreen;
   color: darkgreen;
 }
+
+#myBtn {
+  position: fixed; /* Fixed/sticky position */
+  bottom: 120px; /* Place the button at the bottom of the page */
+  right: 40px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #26eab9; /* Set a background color */
+  color: BLACK; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 1px 7px; /* Some padding */
+  border-radius: 25%; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+  font-weight: 400;
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+@media only screen and (max-width: 600px) {
+  #myBtn {
+    font-size: 30px;
+    border-radius: 100px;
+    width: 55px;
+  }
+
+  #myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+  }
+}
