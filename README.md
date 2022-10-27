@@ -15,7 +15,7 @@
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>
 <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
 <a href="https://www.w3schools.com/python/"><img src= "https://img.icons8.com/color/48/000000/python.png"/><a>
-<a href="https://www.tutorialspoint.com/yaml/index.htm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/512px-Official_YAML_Logo.svg.png"/><a>
+<a href="https://www.tutorialspoint.com/yaml/index.htm"><img width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/512px-Official_YAML_Logo.svg.png"/><a>
 
 #
 Available at : <b><i>[calculator.yoshitha.tk](https://calculator.yoshitha.tk/)</i></b>
