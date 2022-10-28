@@ -10,7 +10,6 @@
 }
 
 .title {
-<<<<<<< HEAD
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -18,7 +17,6 @@
 	font-size: 30px;
 	font-family: "Edo";
 	font-style: italic bold;
-=======
   color: #26eab9;
   display: flex;
   align-items: center;
@@ -28,7 +26,6 @@
   font-family: "Edo";
   font-style: italic;
   font-size: 4rem;
->>>>>>> 02388e92f3e05c12db30d6a503d2fa03877caf67
 }
 
 .paragraph {
@@ -111,13 +108,12 @@
   }
 }
 
-<<<<<<< HEAD
+
 .img {
 	width: 20%;
-=======
+}
 
 #button a:hover {
   background-color: lightgreen;
   color: darkgreen;
->>>>>>> 02388e92f3e05c12db30d6a503d2fa03877caf67
 }
