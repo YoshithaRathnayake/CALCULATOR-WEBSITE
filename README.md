@@ -10,12 +10,12 @@
 - The link for downloading the Calculator app is also available on the website.
 - The programming languages used to build this website are- HTML, CSS and BOOTSTRAP.
 
-
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a> 
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>
 <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
 <a href="https://www.w3schools.com/python/"><img src= "https://img.icons8.com/color/48/000000/python.png"/><a>
 <a href="https://www.w3schools.com/js/"><img src= "https://img.icons8.com/color/48/javascript.png"/><a>
+<a href="https://www.tutorialspoint.com/yaml/index.htm"><img width="44px" top="0" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg"/><a>
 #
 Available at : <b><i>[calculator.yoshitha.tk](https://calculator.yoshitha.tk/)</i></b>
 
