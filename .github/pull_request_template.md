@@ -12,7 +12,9 @@ The purpose of this Pull Request is to fix #<issue-number>
 <!---  Include an animated GIF or screenshot if the change affects the UI.  -->
   
 ### Preview Link
-<!---  Add a preview link to see the preview of the changes done -->
+<!---  This PR will be automatically deployed to surge. -->
+<!---  Once you submit the PR, replace "{PR_NUMBER}" with your PR number. -->
+https://pr-{PR_NUMBER}-CALCULATOR-WEBSITE.surge.sh/
 
 ##  Checklist
 - [x] This PR doesn't commit any keys, passwords, tokens, usernames, or other secrets.
@@ -30,6 +32,3 @@ The purpose of this Pull Request is to fix #<issue-number>
 
 ## Learning
 <!--- Describe the research phase and any blog posts, patterns, libraries, or add-ons you used to solve the problem. -->
-
-
-<a href="https://pr-{1425201703}-CALCULATOR-WEBSITE.surge.sh/">Preview link</a>
