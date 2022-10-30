@@ -2,7 +2,7 @@
 @import url("http://fonts.cdnfonts.com/css/edo");
 
 .bg-img {
-  background-image: url("../img/Background Image.jpg");
+  background-image: url("../img/backgroungif.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -10,25 +10,23 @@
 }
 
 .title {
-  color: #26eab9;
+  color: #000000;
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 10vh auto;
   font-size: 30px;
   font-family: "Edo";
-  font-style: italic;
   font-size: 4rem;
 }
 
 .paragraph {
-	background-color: rgba(0, 0, 0, 0.5);
+	background-color: rgba(255, 151, 151, 0.5);
 	-webkit-backdrop-filter: blur(50px);
 	backdrop-filter: blur(50px);
 	width: 70%;
 	font-size: larger;
-	font-weight: lighter;
-	color:rgb(244, 244, 244);
+	color:rgb(0, 0, 0);
 	border-radius: 10px;
 	padding: 50px;
 	margin: 50px;
@@ -51,8 +49,8 @@
   position: relative;
   -webkit-transition-property: color;
   transition-property: color;
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
   padding: 10px 20px;
   box-shadow: 2px 2px 10px black;
 }
@@ -64,7 +62,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: #145620;
+  background: #16073f;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
