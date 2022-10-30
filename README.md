@@ -1,4 +1,5 @@
-# <div align="center"><a href="https://calculator.yoshitha.tk/"><b><i>WELCOME TO MY CALCULATOR WEBSITE</i></b></a></div>
+# <div align="center"><a href="https://calculator.yoshitha.tk/"><b><i>WELCOME!, TO MY CALCULATOR WEBSITE</i></b></a></div>
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -8,14 +9,14 @@
 - This Github repository explores the website of a Basic Calculator made by Yoshitha Rathnayake.
 - This website shows a preview of my Calculator. 
 - The link for downloading the Calculator app is also available on the website.
-- The programming languages used to build this website are- HTML, CSS and BOOTSTRAP.
-
+- The programming languages used to build this website are HTML, CSS and BOOTSTRAP.
 
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a> 
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>
 <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
 <a href="https://www.w3schools.com/python/"><img src= "https://img.icons8.com/color/48/000000/python.png"/><a>
 <a href="https://www.w3schools.com/js/"><img src= "https://img.icons8.com/color/48/javascript.png"/><a>
+<a href="https://www.tutorialspoint.com/yaml/index.htm"><img width="44px" top="0" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg"/><a>
 #
 Available at : <b><i>[calculator.yoshitha.tk](https://calculator.yoshitha.tk/)</i></b>
 
