@@ -1,4 +1,5 @@
 # <div align="center"><a href="https://calculator.yoshitha.tk/"><b><i>WELCOME!, TO MY CALCULATOR WEBSITE</i></b></a></div>
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -8,7 +9,7 @@
 - This Github repository explores the website of a Basic Calculator made by Yoshitha Rathnayake.
 - This website shows a preview of my Calculator. 
 - The link for downloading the Calculator app is also available on the website.
-- The programming languages used to build this website are- Python, HTML, CSS and BOOTSTRAP.
+- Used Programming Languages (HTML, CSS, BOOTSTRAP, PYTHON and YAML)
 
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a> 
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>
