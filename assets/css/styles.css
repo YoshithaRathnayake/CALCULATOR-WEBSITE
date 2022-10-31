@@ -1,25 +1,36 @@
 /* Edo Font */
 @import url("http://fonts.cdnfonts.com/css/edo");
 
+.bg-img {
+  background-image: url("../img/Background Image.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
-body {
-  margin: 0;
-  padding: 0;
+.title {
+  color: #26eab9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10vh auto;
+  font-size: 30px;
+  font-family: "Edo";
+  font-style: italic;
+  font-size: 4rem;
 }
 
 .navbar {
   display: flex;
-  
   position: relative;
   justify-content: space-between;
   align-items: center;
   background-color: #333;
   color: white;
-  
 }
 
 .brand-title {
- 
   font-size: 1.5rem;
   margin: 3rem;
 }
@@ -100,31 +111,6 @@ body {
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* Background Styles Only */
-
-@import url('https://fonts.googleapis.com/css?family=Raleway');
-
-* {
-  font-family: Raleway;
-}
-
-html {
-  background-color: #DFDFDF;
-}
-
 .side-links {
 position: absolute;
 bottom: 15px;
@@ -163,26 +149,6 @@ font-size: 18px;
 .side-link-icon {
 color: white;
 font-size: 30px;
-}
-
-.bg-img {
-  background-image: url("../img/Background Image.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-
-.title {
-  color: #26eab9;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 10vh auto;
-  font-size: 30px;
-  font-family: "Edo";
-  font-style: italic;
-  font-size: 4rem;
 }
 
 .paragraph {
