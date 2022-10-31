@@ -198,7 +198,7 @@ font-size: 30px;
 .button {
   display: flex;
   justify-content: center;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 /* Adding hover effect to download - start*/
@@ -268,4 +268,10 @@ img {
 #button a:hover {
   background-color: lightgreen;
   color: darkgreen;
+}
+
+.Visitor{
+  width: min-content !important;
+  max-width: 100%;
+  margin: auto;
 }
