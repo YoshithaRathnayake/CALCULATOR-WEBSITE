@@ -1,7 +1,7 @@
 /* Edo Font */
 @import url("http://fonts.cdnfonts.com/css/edo");
 
-.img {
+.bg-img {
   background-image: url("../img/Background Image.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -104,6 +104,7 @@
 .img {
   width: 20%;
 }
+
 #button a:hover {
   background-color: lightgreen;
   color: darkgreen;
