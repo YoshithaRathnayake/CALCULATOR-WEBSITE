@@ -9,16 +9,19 @@ body {
 
 .navbar {
   display: flex;
+  
   position: relative;
   justify-content: space-between;
   align-items: center;
   background-color: #333;
   color: white;
+  
 }
 
 .brand-title {
+ 
   font-size: 1.5rem;
-  margin: .5rem;
+  margin: 3rem;
 }
 
 .navbar-links {
