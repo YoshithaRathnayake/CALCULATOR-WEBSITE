@@ -101,9 +101,10 @@
   }
 }
 
-img {
+.img {
   width: 20%;
 }
+
 #button a:hover {
   background-color: lightgreen;
   color: darkgreen;
