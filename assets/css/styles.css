@@ -332,11 +332,6 @@ li a:nth-child(3):hover~.animation {
     width: 20%;
 }
 
-#button a:hover {
-    background-color: lightgreen;
-    color: darkgreen;
-}
-
 
 /* Visitors Count */
 
