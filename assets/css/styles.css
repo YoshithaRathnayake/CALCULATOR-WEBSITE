@@ -51,8 +51,8 @@
 /* Nav Label */
 
 .brand-title {
-    font-size: 1.5rem;
-    margin: 3rem;
+  font-size: 1.5rem;
+  margin: 1rem;
 }
 
 /* Nav Links */
@@ -143,6 +143,7 @@ li a:nth-child(3):hover~.animation {
     background-color: white;
     border-radius: 10px;
 }
+
 
 /* Side Links */
 
