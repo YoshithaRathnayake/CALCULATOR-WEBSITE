@@ -1,3 +1,18 @@
+/* Text Selection Colour */
+
+::selection {
+  color: black;
+  background: var(--primary-color);
+}
+
+/* Firefox */
+
+::-moz-selection {
+  color: black;
+  background: var(--primary-color);
+}
+
+
 /* Edo Font */
 @import url("http://fonts.cdnfonts.com/css/edo");
 
