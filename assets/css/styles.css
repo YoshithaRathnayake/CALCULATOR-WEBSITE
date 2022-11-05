@@ -49,7 +49,7 @@
   position: relative;
   justify-content: space-between;
   align-items: center;
-  background-color: #333;
+  background: linear-gradient(to left,rgba(0,0,0,0.5), rgba(0,0,0,1));
   color: white;
 }
 
@@ -73,14 +73,47 @@
 }
 
 .navbar-links li a {
-  display: block;
-  text-decoration: none;
-  color: white;
-  padding: 1rem;
+  font-size: 15px;
+	text-transform: uppercase;
+	color: white;
+	text-decoration: none;
+	line-height: 50px;
+	position: relative;
+	z-index: 1;
+	display: inline-block;
+	text-align: center;
+}
+.navbar-links li .animation{
+	position: relative;
+	height: 10%;
+	top: 10;
+	bottom: 0; 
+	z-index: 0;
+	background: #1abc9c;
+	border-radius: 8px;
+	transition: all .5s ease 0s;
 }
 
-.navbar-links li:hover {
-  background-color: #555;
+.navbar-links li a:nth-child(1){
+	width: 100px;
+}
+.navbar-links  li .start-home, li a:nth-child(1):hover~.animation{
+	width: 100px;
+	left: 0;
+}
+.navbar-links li a:nth-child(2){
+	width: 100px;
+}
+.navbar-links  .start-home,  li a:nth-child(2):hover~.animation{
+	width: 110px;
+	left: 100px;
+}
+.navbar-links li a:nth-child(3){
+	width: 100px;
+}
+.navbar-links  .start-home,  li a:nth-child(3):hover~.animation{
+	width: 100px;
+	left: 207px;
 }
 
 .toggle-button {
