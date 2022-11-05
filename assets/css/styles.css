@@ -22,7 +22,11 @@
 
 
 /* Edo Font */
+
 @import url("http://fonts.cdnfonts.com/css/edo");
+
+
+/* Background Image */
 
 .bg-img {
   background-image: url("../img/Background Image.jpg");
@@ -32,17 +36,8 @@
   background-size: cover;
 }
 
-.title {
-  color: #26eab9;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 10vh auto;
-  font-size: 30px;
-  font-family: "Edo";
-  font-style: italic;
-  font-size: 4rem;
-}
+
+/* Navigation Bar */
 
 .navbar {
   display: flex;
@@ -53,10 +48,14 @@
   color: white;
 }
 
+/* Nav Label */
+
 .brand-title {
   font-size: 1.5rem;
   margin: 3rem;
 }
+
+/* Nav Links */
 
 .navbar-links {
   height: 100%;
@@ -116,6 +115,8 @@
 	left: 207px;
 }
 
+/* Menu Button */
+
 .toggle-button {
   position: absolute;
   top: .75rem;
@@ -134,38 +135,7 @@
   border-radius: 10px;
 }
 
-@media (max-width: 800px) {
-  .navbar {
-      flex-direction: column;
-      align-items: flex-start;
-  }
-
-  .toggle-button {
-      display: flex;
-  }
-
-  .navbar-links {
-      display: none;
-      width: 100%;
-  }
-
-  .navbar-links ul {
-      width: 100%;
-      flex-direction: column;
-  }
-
-  .navbar-links ul li {
-      text-align: center;
-  }
-
-  .navbar-links ul li a {
-      padding: .5rem 1rem;
-  }
-
-  .navbar-links.active {
-      display: flex;
-  }
-}
+/* Side Links */
 
 .side-links {
 position: absolute;
@@ -207,6 +177,24 @@ color: white;
 font-size: 30px;
 }
 
+
+/* Main Heading */
+
+.title {
+  color: #26eab9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10vh auto;
+  font-size: 30px;
+  font-family: "Edo";
+  font-style: italic;
+  font-size: 4rem;
+}
+
+
+/* Paragraph */
+
 .paragraph {
 	background-color: rgba(0, 0, 0, 0.5);
 	-webkit-backdrop-filter: blur(50px);
@@ -220,13 +208,17 @@ font-size: 30px;
 	margin: 50px;
 }
 
+
+/* Download Button */
+
 .button {
   display: flex;
   justify-content: center;
   margin-bottom: 50px;
 }
 
-/* Adding hover effect to download - start*/
+
+/* Download button animation */
 
 .hvr-sweep-to-right {
   display: inline-block;
@@ -242,6 +234,7 @@ font-size: 30px;
   padding: 10px 20px;
   box-shadow: 2px 2px 10px black;
 }
+
 .hvr-sweep-to-right:before {
   content: "";
   position: absolute;
@@ -262,11 +255,13 @@ font-size: 30px;
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
 }
+
 .hvr-sweep-to-right:hover,
 .hvr-sweep-to-right:focus,
 .hvr-sweep-to-right:active {
   color: white;
 }
+
 .hvr-sweep-to-right:hover:before,
 .hvr-sweep-to-right:focus:before,
 .hvr-sweep-to-right:active:before {
@@ -274,7 +269,41 @@ font-size: 30px;
   transform: scaleX(1);
 }
 
-/* Adding hover effect to download - end*/
+
+/* Mobile View */
+
+@media (max-width: 800px) {
+  .navbar {
+      flex-direction: column;
+      align-items: flex-start;
+  }
+
+  .toggle-button {
+      display: flex;
+  }
+
+  .navbar-links {
+      display: none;
+      width: 100%;
+  }
+
+  .navbar-links ul {
+      width: 100%;
+      flex-direction: column;
+  }
+
+  .navbar-links ul li {
+      text-align: center;
+  }
+
+  .navbar-links ul li a {
+      padding: .5rem 1rem;
+  }
+
+  .navbar-links.active {
+      display: flex;
+  }
+}
 
 @media only screen and (max-width: 520px) {
   .title {
@@ -287,6 +316,9 @@ font-size: 30px;
   }
 }
 
+
+/* Calculator Image */
+
 .img {
   width: 20%;
 }
@@ -295,6 +327,9 @@ font-size: 30px;
   background-color: lightgreen;
   color: darkgreen;
 }
+
+
+/* Visitors Count */
 
 .Visitor{
   width: min-content !important;
