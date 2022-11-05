@@ -46,6 +46,9 @@
     align-items: center;
     background: linear-gradient(to left, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1));
     color: white;
+    position: fixed;
+    z-index: 1;
+    top: 0;
 }
 
 /* Nav Label */
