@@ -122,6 +122,7 @@
     background: linear-gradient(to left, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1));
     color: white;
     position: fixed;
+    height: 100px;
     z-index: 1;
     top: 0;
     backdrop-filter: blur(10px);
