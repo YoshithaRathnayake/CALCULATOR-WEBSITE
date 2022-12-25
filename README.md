@@ -18,7 +18,9 @@
 <a href="https://www.w3schools.com/js/"><img src= "https://img.icons8.com/color/48/javascript.png"/><a>
 <a href="https://www.tutorialspoint.com/yaml/index.htm"><img width="44px" top="0" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg"/><a>
 #
-Available at : <b><i>[calculator.yoshitha.tk](https://calculator.yoshitha.tk/)</i></b>
+> Available at : <b><i>[calculator.yoshitha.tk](https://calculator.yoshitha.tk/)</i></b>
+
+> Download Our App : <b><i>[Calculator App](https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE/releases/download/Project/CALCULATOR.exe)</i></b>
 
 
 #
