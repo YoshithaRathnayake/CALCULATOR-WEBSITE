@@ -282,6 +282,8 @@ li a:nth-child(3):hover~.animation {
     font-family: "Edo";
     font-style: italic;
     font-size: 4rem;
+    position: relative;
+    top: 30px;
 }
 
 
