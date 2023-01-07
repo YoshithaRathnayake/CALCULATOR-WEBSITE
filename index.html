@@ -38,6 +38,7 @@
 
   <!-- LineIcons -->
 
+  <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
   <link href="your-project-dir/icon-font/lineicons.css" rel="stylesheet" />
   <link href="https://cdn.lineicons.com/3.0/lineicons.css" rel="stylesheet" />
 
@@ -53,10 +54,55 @@
 
   <title>CALCULATOR | YOSHITHA</title>
 
+  <style>
+    html{
+    scroll-behavior: smooth;
+}
+/* Scroll back to top styles */
+
+.scrolltop{
+    position: fixed;
+    left: 1rem;
+    bottom: -20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: .5rem;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: .4rem;
+    z-index: 10;
+    transition: .4s;
+    text-decoration: none;
+    visibility: hidden;
+}
+
+.scrolltop:hover{
+    background-color: #26eab9af;
+}
+
+.scrolltop__icon{
+    font-size: 1.8rem;
+    color: #fff;
+}
+
+.scroll-top{
+    visibility: visible;
+    bottom: 1.5rem;
+}
+
+  </style>
+
 </head>
 
 <body class="bg-img">
+
+
+  <!-- Scroll back to top icon -->
   
+  <a href="#" class="scrolltop" id="scroll-top">
+    <i class="bx bx-chevrons-up scrolltop__icon"></i> 
+  </a>
+
   <!-- Navigation Bar -->
   
   <nav class="navbar container-fluid">
@@ -133,7 +179,20 @@
 
   <!-- Script Files -->
 
+  <script>
+    function scrollTop(){
+    const scrollTop = document.getElementById('scroll-top')
+
+    if(this.scrollY >= 160)
+    scrollTop.classList.add("scroll-top");
+    else scrollTop.classList.remove("scroll-top")
+  }
+
+  window.addEventListener("scroll", scrollTop)
+  </script>
+
   <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+
 
 </body>
 
