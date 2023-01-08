@@ -1,3 +1,38 @@
+    html{
+    scroll-behavior: smooth;
+}
+/* Scroll back to top styles */
+
+.scrolltop{
+    position: fixed;
+    left: 1rem;
+    bottom: -20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: .5rem;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: .4rem;
+    z-index: 10;
+    transition: .4s;
+    text-decoration: none;
+    visibility: hidden;
+}
+
+.scrolltop:hover{
+    background-color: #26eab9af;
+}
+
+.scrolltop__icon{
+    font-size: 1.8rem;
+    color: #fff;
+}
+
+.scroll-top{
+    visibility: visible;
+    bottom: 1.5rem;
+}
+
 /* Colour Variable */
 
 :root {
