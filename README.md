@@ -37,7 +37,7 @@ This is a basic everyday Calculator with following features:
   
 #
   
-<div align="center"><img src="assets\img\Calculator_Img.jpg" width="300px"></div>
+<div align="center"><img src="assets\img\Callculator_img2.png" width="300px"></div>
 </div>
 
 #
